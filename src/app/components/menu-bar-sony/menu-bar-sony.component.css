@@ -1,0 +1,16 @@
+.menu-bar-sony_container {
+	background-color: black;
+	position: relative;
+	height: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: end;
+}
+
+.menu-bar-sony_title {
+	padding-right: 10px	;
+}
+
+.menu-bar-sony_title > img {
+	width: 65px;
+}
